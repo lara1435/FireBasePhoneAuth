@@ -7,21 +7,21 @@
 	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
 	<string>ca-app-pub-3940256099942544/4411468910</string>
 	<key>CLIENT_ID</key>
-	<string>898581237100-7kp56t8c51u6u8sd9dp01k386iq8srfm.apps.googleusercontent.com</string>
+	<string>34164894081-l3dhsl75ttihvls6ec627unlcmvtrhvu.apps.googleusercontent.com</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.898581237100-7kp56t8c51u6u8sd9dp01k386iq8srfm</string>
+	<string>com.googleusercontent.apps.34164894081-l3dhsl75ttihvls6ec627unlcmvtrhvu</string>
 	<key>API_KEY</key>
-	<string>AIzaSyAeXS3L6xtqi1r0eIdka0p5nvj05QuImQM</string>
+	<string>AIzaSyCCyOl8GhITEu9_eyg0NS885gZYlCPhYI0</string>
 	<key>GCM_SENDER_ID</key>
-	<string>898581237100</string>
+	<string>34164894081</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>com.srmtech.tutorial.FCA</string>
+	<string>com.chokker.firecast</string>
 	<key>PROJECT_ID</key>
-	<string>firecast-888e6</string>
+	<string>firecast-e5494</string>
 	<key>STORAGE_BUCKET</key>
-	<string>firecast-888e6.appspot.com</string>
+	<string>firecast-e5494.appspot.com</string>
 	<key>IS_ADS_ENABLED</key>
 	<true></true>
 	<key>IS_ANALYTICS_ENABLED</key>
@@ -33,8 +33,8 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:898581237100:ios:d6a279e1d1b7bdee</string>
+	<string>1:34164894081:ios:5889a6549e87bb71</string>
 	<key>DATABASE_URL</key>
-	<string>https://firecast-888e6.firebaseio.com</string>
+	<string>https://firecast-e5494.firebaseio.com</string>
 </dict>
 </plist>
